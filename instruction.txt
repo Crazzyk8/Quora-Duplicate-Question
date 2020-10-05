@@ -1,0 +1,17 @@
+AI reveals the real faces of Mona Lisa,
+Self-Portrait with Thorn Necklace and Hummingbird
+The Birth of Venus
+Girl with a Pearl Earring
+Lady with an Ermine
+https://github.com/baowenbo/DAIN
+https://github.com/xinntao/ESRGAN
+https://github.com/tg-bomze/StyleGAN2-Face-Modificator
+Rewriting a Deep Generative Model - https://github.com/davidbau/rewriting
+https://github.com/tg-bomze/StyleGAN2-Face-Modificator
+Pose machine - https://github.com/lawy623/LSTM_Pose_Machines
+webxtr trails - https://github.com/spite/webxr-trails
+https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform
+https://github.com/ellickhou/AIAproject-FittingRoom
+https://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Towards_Multi-Pose_Guided_Virtual_Try-On_Network_ICCV_2019_paper.pdf
+https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform
+https://arxiv.org/pdf/1608.01250.pdf
